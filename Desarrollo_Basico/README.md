@@ -1,1 +1,0 @@
-Juntar todos los zips de registros en una misma carpeta llamada RegistrosSinProcesar.
